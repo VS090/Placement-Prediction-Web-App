@@ -39,7 +39,7 @@ Steps:
 1. Clone Project
 
 ```
-git clone
+git clone repo link
 ```
 
 2. Installing dependancies
